@@ -1,4 +1,3 @@
-
 entrada = open('bacteria.fasta').read()
 saida = open('bacteria.html', 'w')
 
